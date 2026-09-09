@@ -33,10 +33,10 @@ tuned XGBoost at R² 0.837 (vs 0.552 persistence baseline), FastAPI service on R
 
 **[DentGuard AI](#)** — Android dental diagnostics app, final year project.
 React Native frontend integrating a YOLO oral disease detector and a RAG dental chatbot on
-Hugging Face Spaces, plus nearby-dentist search over OpenStreetMap.
+Hugging Face Spaces, plus nearby-dentist search using the Google Maps and Places APIs.
 `React Native` `YOLO` `LangChain` `FastAPI`
 
-**[ChatBot](#)** — React Native + TypeScript LLM chat client.
+**[ChatBot](https://github.com/Sameen20-bot/ChatBot)** — React Native + TypeScript LLM chat client.
 Typewriter response rendering, keyboard-aware auto-scroll, Firebase push notifications.
 `React Native` `TypeScript` `Groq API` `Firebase`
 
@@ -63,8 +63,7 @@ Typewriter response rendering, keyboard-aware auto-scroll, Firebase push notific
 <p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React Native" width="40" />&nbsp;&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg" alt="Firebase" width="40" />&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" alt="FastAPI" width="40" />&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" alt="FastAPI" width="40" />
 </p>
 
 <h3 align="center">Web & CMS</h3>
@@ -87,12 +86,12 @@ Typewriter response rendering, keyboard-aware auto-scroll, Firebase push notific
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=Sameen20-bot&show_icons=true&theme=radical&border_radius=10&hide_border=true" alt="GitHub Stats" />
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sameen20-bot&langs_count=8&layout=compact&theme=radical&border_radius=10&hide_border=true" alt="Top Languages" />
+  <img height="165em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Sameen20-bot&show_icons=true&theme=radical&border_radius=10&hide_border=true&cache_seconds=7200" alt="GitHub Stats" />
+  <img height="165em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Sameen20-bot&langs_count=8&layout=compact&theme=radical&border_radius=10&hide_border=true&cache_seconds=7200" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sameen20-bot&theme=redical&radius=10&hide_border=true" alt="Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sameen20-bot&theme=radical&radius=10&hide_border=true" alt="Activity Graph" />
 </p>
 
 <p align="center">
