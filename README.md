@@ -91,10 +91,6 @@ Typewriter response rendering, keyboard-aware auto-scroll, Firebase push notific
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sameen20-bot&theme=radical&radius=10&hide_border=true" alt="Activity Graph" />
-</p>
-
-<p align="center">
   <img src="https://raw.githubusercontent.com/Sameen20-bot/Sameen20-bot/output/snake-dark.svg" alt="Snake eating my contribution graph" />
 </p>
 
